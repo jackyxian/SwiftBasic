@@ -1,0 +1,2 @@
+# SwiftBasic
+playround都是swift的基础语法例子，然后storyboard里都是基础控件例子，本人比较文静，出视频了大家再吐槽。新的版本的例子会持续更新中。
